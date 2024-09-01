@@ -1,4 +1,6 @@
-## Before and After Processing
+# Facial-Emotional Detection for Videos using AWS Rekognition
+
+This project utilizes **AWS Rekognition** to detect and analyze emotions from faces in video files. The detected emotions are overlaid onto the video frames, and the processed video is saved with emotion-based highlights. 
 
 <div style="display: flex; justify-content: space-around;">
     <div style="text-align: center;">
@@ -10,10 +12,6 @@
         <img src="https://github.com/user-attachments/assets/9c7f6c7c-64ca-4ff0-9a9f-17d00e36f7db" alt="After Processing" width="45%">
     </div>
 </div>
-
-# Facial-Emotional Detection for Videos using AWS Rekognition
-
-This project utilizes **AWS Rekognition** to detect and analyze emotions from faces in video files. The detected emotions are overlaid onto the video frames, and the processed video is saved with emotion-based highlights. 
 
 ## Features
 
