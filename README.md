@@ -3,11 +3,11 @@
 <div style="display: flex; justify-content: space-around;">
     <div style="text-align: center;">
         <p><strong>Before Processing</strong></p>
-        <img src="[images/before_processing.png](https://github.com/user-attachments/assets/12035454-c530-4903-84d4-6babdf6b52ea)" alt="Before Processing" width="45%">
+        <img src="https://github.com/user-attachments/assets/12035454-c530-4903-84d4-6babdf6b52ea" alt="Before Processing" width="45%">
     </div>
     <div style="text-align: center;">
         <p><strong>After Processing</strong></p>
-        <img src="[images/after_processing.png](https://github.com/user-attachments/assets/9c7f6c7c-64ca-4ff0-9a9f-17d00e36f7db)" alt="After Processing" width="45%">
+        <img src="https://github.com/user-attachments/assets/9c7f6c7c-64ca-4ff0-9a9f-17d00e36f7db" alt="After Processing" width="45%">
     </div>
 </div>
 
