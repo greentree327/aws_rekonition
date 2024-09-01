@@ -1,0 +1,39 @@
+
+**Emotion Detection Video Processing**
+
+This script uses AWS Rekognition to detect emotions in faces from a video and overlays the detected emotions onto the video frames. The output is saved as a new video file with emotion-based highlights.
+
+**Dependencies**
+
+**Python Version**  
+This script is written in Python 3.11.
+
+**Required Packages**  
+The following Python packages are required for running the script:
+
+- `boto3`: 
+
+- `opencv-python`
+
+- `numpy`
+
+- `json`
+
+- `time`
+
+** Things t be changed **
+--> line 20
+--> line 26
+--> line 67,68
+
+**AWS Rekognition**  
+You will need AWS credentials (access key ID and secret access key) and an S3 bucket containing the video file to analyze. Ensure that AWS Rekognition is enabled in the region where your S3 bucket is located.
+
+**File Dependencies**  
+Make sure the input video file is stored in the specified location (`input_path`), and you have permissions to read from this location. The output video will be saved at the specified `output_path`.
+
+**Example**
+- **Input Video:** `female elderly home 5.mp4` (stored in S3 bucket)
+- **Output Video:** `output_video.mp4` (saved locally)
+
+---
